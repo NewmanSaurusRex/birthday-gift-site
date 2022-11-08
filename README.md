@@ -1,3 +1,6 @@
+Followed the Scrimba tutorials to build this site. To learn more about Scrimba 👇🏼
+
+
 # co5904f50b1d9aa5ca6c7f488
 
 ## About Scrimba
